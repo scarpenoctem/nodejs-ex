@@ -26,7 +26,6 @@
   * [License](#license)
 
 <!-- tocstop -->
-
 ## Node.js sample app on OpenShift!
 -----------------
 
